@@ -1,0 +1,13 @@
+{
+  "site": "monitoradqrv",
+  "relatorios": {
+    "relatorios/painel-360-adq.html": "C:\\Users\\marcuscarreiro\\OneDrive - RV Tecnologia e Sistemas S A\\BD\\Relatorios\\HTML\\360\\Painel 360 ADQ.html",
+    "relatorios/consulta-pdvs-adq.html": "C:\\Users\\marcuscarreiro\\OneDrive - RV Tecnologia e Sistemas S A\\BD\\Relatorios\\HTML\\360\\Consulta PDV.html",
+    "relatorios/dre-adq.html": "C:\\Users\\marcuscarreiro\\OneDrive - RV Tecnologia e Sistemas S A\\BD\\Relatorios\\HTML\\DRExRegional\\consulta_dre.html",
+    "relatorios/rob-x-pdv.html": "C:\\Users\\marcuscarreiro\\OneDrive - RV Tecnologia e Sistemas S A\\BD\\Relatorios\\HTML\\ROBxPDV\\relatorio_performance_pdvs.html",
+    "relatorios/auditoria-pgs.html": "C:\\Users\\marcuscarreiro\\OneDrive - RV Tecnologia e Sistemas S A\\BD\\Relatorios\\HTML\\Apurações\\PGS\\relatorio_auditoria_pagseguro.html",
+    "relatorios/auditoria-stone.html": "C:\\Users\\marcuscarreiro\\OneDrive - RV Tecnologia e Sistemas S A\\BD\\Relatorios\\HTML\\Apurações\\STONE\\auditoria_Resultado STONE.html"
+  },
+  "planilha_usuarios": "C:\\Users\\marcuscarreiro\\OneDrive - RV Tecnologia e Sistemas S A\\BD\\Relatorios\\HTML\\HUB\\usuarios.xlsx",
+  "ultima_publicacao": "e1bed515d6d27ad2ecdff0d5c9ec2e1b0ad1ccc91a29392db32648504ae48946"
+}

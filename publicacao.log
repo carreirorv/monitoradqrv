@@ -1,0 +1,154 @@
+[2026-10-26 07:54:22] Não encontrei o index.html na pasta do script: C:\Users\marcuscarreiro\OneDrive - RV Tecnologia e Sistemas S A\BD\Relatorios\HTML\Monitor
+[2026-10-26 07:56:16] Usuários do login atualizados: 5 (marcusdantas, marcoscolen, nelybarros, keilamonteiro, marcuscarreiro).
+[2026-10-26 11:20:34] O index.html não tem as marcações de atalhos (ATALHOS:INICIO / ATALHOS:FIM).
+[2026-10-26 14:17:16] O index.html não tem as marcações de atalhos (ATALHOS:INICIO / ATALHOS:FIM).
+[2026-10-26 14:36:39] Iniciando atualização do HUB (monitoradqrv)
+[2026-10-26 14:36:40] Usuários do login sem alteração (5).
+[2026-10-26 14:36:40] 0 relatório(s) com versão nova.
+[2026-10-26 14:36:40] Montando os arquivos para envio...
+[2026-10-26 14:36:40] Enviando para o Netlify (pode levar alguns minutos)...
+[2026-10-26 14:36:56] Publicado com sucesso: https://monitoradqrv.netlify.app>
+[2026-10-26 14:49:50] Iniciando atualização do HUB (monitoradqrv)
+[2026-10-26 14:49:50] Usuários do login sem alteração (5).
+[2026-10-26 14:49:50] 0 relatório(s) com versão nova.
+[2026-10-26 14:49:50] Montando os arquivos para envio...
+[2026-10-26 14:49:50] Enviando para o Netlify (pode levar alguns minutos)...
+[2026-10-26 14:50:12] Publicado com sucesso: https://monitoradqrv.netlify.app>
+[2026-10-27 14:46:07] Iniciando atualização do HUB (monitoradqrv)
+[2026-10-27 14:46:07] Usuários do login sem alteração (5).
+[2026-10-27 14:46:07] Atualizado: relatorios/painel-360-adq.html
+[2026-10-27 14:46:07] Atualizado: relatorios/consulta-pdvs-adq.html
+[2026-10-27 14:46:07] 2 relatório(s) com versão nova.
+[2026-10-27 14:46:07] Montando os arquivos para envio...
+[2026-10-27 14:46:07] Enviando para o Netlify (pode levar alguns minutos)...
+[2026-10-27 14:46:17] ERRO na publicação. Mensagem do Netlify:
+[2026-10-27 14:46:17] Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+Deploy path: C:\Users\MARCUS~2\AppData\Local\Temp\hub_adq_publicar_e91dci3z
+
+ »   Warning: JSONHTTPError:  403
+ »   Warning: 
+{
+  "name": "JSONHTTPError",
+  "status": 403,
+  "json": {
+    "error": "Account credit usage exceeded - new deploys are blocked until credits are added"
+  }
+}
+
+ »   JSONHTTPError: Forbidden
+[2026-10-28 10:48:00] Iniciando atualização do HUB (monitoradqrv)
+[2026-10-28 10:48:00] Usuários do login sem alteração (5).
+[2026-10-28 10:48:00] Atualizado: relatorios/painel-360-adq.html
+[2026-10-28 10:48:00] Atualizado: relatorios/consulta-pdvs-adq.html
+[2026-10-28 10:48:00] 2 relatório(s) com versão nova.
+[2026-10-28 10:48:01] Montando os arquivos para envio...
+[2026-10-28 10:48:01] Enviando para o Netlify (pode levar alguns minutos)...
+[2026-10-28 10:48:13] ERRO na publicação. Mensagem do Netlify:
+[2026-10-28 10:48:13] Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+Deploy path: C:\Users\MARCUS~2\AppData\Local\Temp\hub_adq_publicar_sx2mh4_d
+
+ »   Warning: JSONHTTPError:  403
+ »   Warning: 
+{
+  "name": "JSONHTTPError",
+  "status": 403,
+  "json": {
+    "error": "Account credit usage exceeded - new deploys are blocked until credits are added"
+  }
+}
+
+ »   JSONHTTPError: Forbidden
+[2026-10-28 10:51:10] Iniciando atualização do HUB (monitoradqrv)
+[2026-10-28 10:51:11] Usuários do login sem alteração (5).
+[2026-10-28 10:51:11] 0 relatório(s) com versão nova.
+[2026-10-28 10:51:11] Montando os arquivos para envio...
+[2026-10-28 10:51:11] Enviando para o Netlify (pode levar alguns minutos)...
+[2026-10-28 10:51:22] ERRO na publicação. Mensagem do Netlify:
+[2026-10-28 10:51:22] Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+Deploy path: C:\Users\MARCUS~2\AppData\Local\Temp\hub_adq_publicar_w0yr9iho
+
+ »   Warning: JSONHTTPError:  403
+ »   Warning: 
+{
+  "name": "JSONHTTPError",
+  "status": 403,
+  "json": {
+    "error": "Account credit usage exceeded - new deploys are blocked until credits are added"
+  }
+}
+
+ »   JSONHTTPError: Forbidden
+[2026-10-28 10:56:54] Iniciando atualização do HUB (monitoradqrv)
+[2026-10-28 10:56:55] Usuários do login sem alteração (5).
+[2026-10-28 10:56:55] 0 relatório(s) com versão nova.
+[2026-10-28 10:56:55] Montando os arquivos para envio...
+[2026-10-28 10:56:55] Enviando para o Netlify (pode levar alguns minutos)...
+[2026-10-28 10:57:04] ERRO na publicação. Mensagem do Netlify:
+[2026-10-28 10:57:04] Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+Deploy path: C:\Users\MARCUS~2\AppData\Local\Temp\hub_adq_publicar_afqsib_e
+
+ »   Warning: JSONHTTPError:  403
+ »   Warning: 
+{
+  "name": "JSONHTTPError",
+  "status": 403,
+  "json": {
+    "error": "Account credit usage exceeded - new deploys are blocked until credits are added"
+  }
+}
+
+ »   JSONHTTPError: Forbidden
+[2026-10-28 11:10:23] Iniciando atualização do HUB (monitoradqrv)
+[2026-10-28 11:10:24] Usuários do login sem alteração (5).
+[2026-10-28 11:10:24] 0 relatório(s) com versão nova.
+[2026-10-28 11:10:24] Montando os arquivos para envio...
+[2026-10-28 11:10:24] Enviando para o Netlify (pode levar alguns minutos)...
+[2026-10-28 11:10:36] ERRO na publicação. Mensagem do Netlify:
+[2026-10-28 11:10:36] Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+Deploy path: C:\Users\MARCUS~2\AppData\Local\Temp\hub_adq_publicar_qemuyq2v
+
+ »   Warning: JSONHTTPError:  403
+ »   Warning: 
+{
+  "name": "JSONHTTPError",
+  "status": 403,
+  "json": {
+    "error": "Account credit usage exceeded - new deploys are blocked until credits are added"
+  }
+}
+
+ »   JSONHTTPError: Forbidden
+[2026-10-28 11:10:36] A conta do Netlify logada neste computador está sem créditos. Se quiser publicar por outra conta, use a opção 10 para entrar nela.
+[2026-10-28 11:15:11] Iniciando atualização do HUB (monitoradqrv)
+[2026-10-28 11:15:12] Usuários do login sem alteração (5).
+[2026-10-28 11:15:12] 0 relatório(s) com versão nova.
+[2026-10-28 11:15:12] Montando os arquivos para envio...
+[2026-10-28 11:15:12] Enviando para o Netlify (pode levar alguns minutos)...
+[2026-10-28 11:15:23] ERRO na publicação. Mensagem do Netlify:
+[2026-10-28 11:15:23] Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+Deploy path: C:\Users\MARCUS~2\AppData\Local\Temp\hub_adq_publicar_s4jjx773
+
+ »   Warning: JSONHTTPError:  403
+ »   Warning: 
+{
+  "name": "JSONHTTPError",
+  "status": 403,
+  "json": {
+    "error": "Account credit usage exceeded - new deploys are blocked until credits are added"
+  }
+}
+
+ »   JSONHTTPError: Forbidden
+[2026-10-28 11:15:23] A conta do Netlify logada neste computador está sem créditos. Se quiser publicar por outra conta, use a opção 10 para entrar nela.
